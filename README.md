@@ -13,7 +13,7 @@
 
 <h2 align="center">☆[INFORMATION]☆</h2>
 
-* A tool for encrypt your tools <br> Thanks.<br></p>
+* Termux extra key😴<br> Thanks.<br></p>
 
 
 <h3 align="center">☆[INSTALL]☆</h3>
