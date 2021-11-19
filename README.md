@@ -38,7 +38,7 @@ cd t-key
 python key
 ```
 <p align="center">
-  <img alt="Layout" src="DEMO.jpg">
+  <img alt="Layout" src="ak27x.jpg">
 </p>
 <h4 align="center">☆[UNINSTALL]☆<h4>
 
